@@ -1,0 +1,13 @@
+{
+  "name": "quantum-speed-test",
+  "version": "1.0.0",
+  "description": "Quantum Speed Test – production build for Vercel",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
